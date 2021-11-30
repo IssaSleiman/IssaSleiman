@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IssaSleiman
 - 👀 I’m interested in coading
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on GtHub
 - 📫 How to reach me issasleiman31@gmail.com
 
 <!---
